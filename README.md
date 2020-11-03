@@ -1,1 +1,1 @@
-# Channels_Golang
+# Channels, Goroutines, Concurrency in Golang
